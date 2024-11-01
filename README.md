@@ -1,24 +1,16 @@
-# Web Dev Starter Code
+# Lab 11
 
 ## Overview
 
-TODO: Write a project description
+In this project, a simple inventory app was created using the AWS endpoints that were created in the last module. In the app, you can add and delete items from the database. 
+
+Note that to see the item you have added to the database or deleted from the database, you must click on the "Load Data" button. 
+
+### To view the web page
+Clone the repository and open in VSCode. Use the Live Preview extension to view the web page. You can either view it within VSCode or in a web browser. Add items to the database by filling out the required information. Click the "Add Item" button and then click "Load Data" to see the item in the table. To delete an item, click on the corresponding "Delete" button and then click "Load Data". 
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- https://developer.mozilla.org/en-US/docs/Web/API/HTMLTableElement/insertRow
+- https://stackoverflow.com/questions/15315315/how-do-i-add-a-button-to-a-td-using-js
+- https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_intro (For basic table styling)
